@@ -1,0 +1,6 @@
+---
+applications:
+- name: demo-redis
+  memory: 512M
+  host: demo-redis
+  path: target/demo-redis-0.0.1-SNAPSHOT.jar
